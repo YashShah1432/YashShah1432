@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Yash Shah, a Computer Science Engineering graduate with a strong interest in data and problem-solving. I enjoy finding patterns, understanding what the numbers are telling us, and using those insights to help make better decisions.<br><br>Programming & Query: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL)<br>Data Visualization: Power BI, Excel (Pivot Tables, VLOOKUP, Charts), Tableau, Matplotlib, Seaborn, Plotly<br>Data Skills: Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Data Wrangling<br>Tools & Platforms: Anaconda, Jupyter Notebook, Git, GitHub, VS Code, MS Excel, Vercel, PowerPoint
+I am Yash Shah, a Computer Science Engineering graduate with a strong interest in data and problem-solving. I enjoy finding patterns, understanding what the numbers are telling us, and using those insights to help make better decisions.<br><br>**Programming & Query**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL)<br>**Data Visualization**: Power BI, Excel (Pivot Tables, VLOOKUP, Charts), Tableau, Matplotlib, Seaborn, Plotly<br>**Data Skills**: Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, Data Wrangling<br>**Tools & Platforms**: Anaconda, Jupyter Notebook, Git, GitHub, VS Code, MS Excel, Vercel, PowerPoint
 
 ## 🌐 Socials:
 <p align="center">
